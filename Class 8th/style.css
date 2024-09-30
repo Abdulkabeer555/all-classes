@@ -1,0 +1,42 @@
+ .box1 {
+    border: 1px dashed black;
+    border-collapse: collapse;
+    background-color: #dfbeb9c7;
+    border-radius: 4px;
+  }
+  .box4{
+    background-color: aqua;
+    border: 2px solid black;
+border-radius: 3px;
+padding: 25px;
+text-align: center;
+  }
+  .box3{
+border: 2px solid black;
+border-radius: 3px;
+padding: 25px;
+text-align: center;
+background-color: bisque;
+height: 20px;
+
+  }
+  table{
+    border: 2px dashed grey;
+    width: 100%;
+    
+  }
+  .img1{
+    background-image: url(images/image2.jfif);
+    background-size: 100% 100%;
+  }
+  
+  
+  td:hover{
+    background-color: rgb(230, 223, 223);
+  }
+  .box1:nth-child(odd){
+    background-color: red;
+  }
+  .box1{
+    background-color: red;
+  }

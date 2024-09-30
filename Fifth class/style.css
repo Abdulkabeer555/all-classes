@@ -1,0 +1,27 @@
+.box1{
+    margin: auto;
+    display: flex;
+}
+.box2{
+width: 40%;
+display: flex;
+margin: auto;
+
+ 
+}
+body{
+    background-color: #fcd3b5;
+    outline: 10px solid white;
+    border: 2px solid black;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: xx-large;
+} 
+
+p{
+    text-align: justify;
+}

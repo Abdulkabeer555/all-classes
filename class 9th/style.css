@@ -1,0 +1,25 @@
+.box1{
+    border-spacing: 2px;
+    border: 2px solid grey;
+    text-align: center;
+}
+tr,td{
+    border: 2px solid black;
+}
+th{
+    background-color: aquamarine;
+}
+tr:nth-child(even){
+    /* background-color: sandybrown; */
+}
+.box2{
+    border: 2px solid blanchedalmond;
+}
+table{
+    border-spacing: 8px;
+    width: 100%;
+
+}
+table:nth-child(even){
+    background-color: blue;
+}
